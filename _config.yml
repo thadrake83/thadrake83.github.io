@@ -1,11 +1,11 @@
 # Site settings
 author: Drake Rentrop
-title: 
+title: Misadventures in Coding
 header-img: img/home-bg.png
 email: drakerentrop@gmail.com
 copyright_name: Drake Rentrop
 description: > # this means to ignore newlines until "baseurl:"
-  
+  A Programmer's Tale 
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: 
 github_username:  thadrake83
